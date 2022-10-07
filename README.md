@@ -1,0 +1,2 @@
+# Auto-borrar-archivo-mas-reciente
+Este programa lo utilizo para grabar tutoriales; voy grabando por secciones siguiendo el guión que escribo, al equivocarme en alguna parte simplemene dejo de grabar y ejecuto el programa (lo ejecuto desde un streamdeck), este programa borra el video más reciente. De esta manera solo debo preocuparme por detener la grabación, presionar una tecla y volver a grabar.
