@@ -1,0 +1,16 @@
+Es muy sencillo de usar
+
+Este programa lo utilizo para grabar tutoriales; voy grabando por secciones siguiendo el guión
+que escribo, al equivocarme en alguna parte simplemene dejo de grabar y ejecuto el programa,
+este programa borra el video más reciente (lo ejecuto desde un streamdeck). De esta manera
+solo debo preocuparme por detener la grabación, presionar una tecla y volver a grabar.
+
+
+Al ejecutar el programa "actualizar_config.exe" solo se usa para seleccionar el folder
+al cual se le va a eliminar el archivo más recientemente modificado.
+
+Al ejecutar el programa "borrar_ultimo_video" se elimina el archivo más recientemente modificado
+o creado y envía una notificación para confirmar que se logró.
+
+Solo se requiere lo que está dentro de este folder ("ejecutables") para el funcionamiento,
+los demás son los programas de python para modificarlos.
